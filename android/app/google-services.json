@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "7673594214",
+    "firebase_url": "https://corona-c8147.firebaseio.com",
+    "project_id": "corona-c8147",
+    "storage_bucket": "corona-c8147.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7673594214:android:d2d0afd14c4ca9b8c448a7",
+        "android_client_info": {
+          "package_name": "instant.ethionews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7673594214-mqg4tdm9hcl57ts16a1j5al46kptd1ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXCqnYMVdX9_MRX_3Liylp-K44b184Sds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7673594214-mqg4tdm9hcl57ts16a1j5al46kptd1ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
