@@ -479,7 +479,7 @@ class _HomeState extends State<Home> {
                                   ),
                                 ),
                               )
-                            ],
+                          ],
                           ),
                         )
                         //
@@ -493,8 +493,6 @@ class _HomeState extends State<Home> {
             //Third Container
           ],
         ),
-
-
     );
   }
 }
